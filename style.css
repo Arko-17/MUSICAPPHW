@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    background-image: linear-gradient(cyan, greenyellow);
+}
+.playing_now_div{
+    float: center;
+}
+.disk{
+    width: 200px;
+    border-radius: 100px;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color:blue;
+}
