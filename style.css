@@ -6,7 +6,7 @@ body{
     float: center;
 }
 .disk{
-    width: 200px;
+    width: 150px;
     border-radius: 100px;
 }
 .heading{
@@ -17,4 +17,7 @@ body{
 .note{
     font-size: 15px;
     color:blue;
+}
+canvas{
+    margin-top: 100;
 }
